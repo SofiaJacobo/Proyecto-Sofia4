@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOFIA JACOBO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #4caf50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SOFIA JACOBO</h1>
+    </header>
+
+    <nav>
+        <a href="#">INICIO</a>
+        <a href="#">FOOTER</a>
+        <a href="#">Il piatto</a>
+        <a href="#">LOS FAVORITOS</a>
+        <a href="#">SECTION</a>
+        <a href="#">CLIENTES</a>
+        <a href="#">CONTACTO</a>
+    </nav>
+
+    <section>
+        <h2>NOSOTROS</h2>
+        <p>Una experiencia que te transporta</p>
+    </section>
+
+    <footer>
+        <p
+        
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 24px;
+            color: #333;
+        }
+        
+        h2 {
+            font-size: 20px;
+            color: #777;
+        }
+        
+        p {
+            font-size: 16px;
+            color: #333;
+        }
+
+        .imagen {
+            width: 100%;
+            height: auto;
+        }
+    
+        .texto {
+            color: #333;
+            margin-top: 10px;
+        }
+    </style>
+    
